@@ -7,7 +7,7 @@ order: 4
 # 个人简介
 
 ## 姓名
-吕慧超 Hunter.lv
+- **吕慧超 Hunter.lv**
 
 ## 技术领域
 - **Linux Kernel**
@@ -16,16 +16,10 @@ order: 4
 - **AI Platform Software**
 - **GPGPU&NPU**
 
-## 经历
-- **Enflame：** Staff software engineer
-
 ## 教育背景
 - **学位:** 学士学位
 - **学校:** 内蒙古大学
 - **时间:** 2012 - 2016
-
-## 个人站点
-[点我点我！！](https://hunter93lv.github.io/)
 
 ## 联系方式
 - Email: hunter93.lv@gmail.com

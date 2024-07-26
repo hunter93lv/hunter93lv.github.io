@@ -16,13 +16,16 @@ order: 4
 - **AI Platform Software**
 - **GPGPU&NPU**
 
+## 经历
+- **Enflame：** Staff software engineer
+
 ## 教育背景
-- 学位: 学士学位
-- 学校: 内蒙古大学
-- 时间: 2012 - 2016
+- **学位:** 学士学位
+- **学校:** 内蒙古大学
+- **时间:** 2012 - 2016
 
 ## 个人站点
-[个人站点](https://hunter93lv.github.io/)
+[点我点我！！](https://hunter93lv.github.io/)
 
 ## 联系方式
 - Email: hunter93.lv@gmail.com

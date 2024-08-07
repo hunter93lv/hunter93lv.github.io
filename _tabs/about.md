@@ -24,3 +24,4 @@ order: 4
 ## 联系方式
 - Email: hunter93.lv@gmail.com
 - GitHub: [GitHub Profile](https://github.com/hunter93lv)
+- Gitee: [Gitee Profile](https://gitee.com/hunter93lv)
